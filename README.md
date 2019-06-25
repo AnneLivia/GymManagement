@@ -1,4 +1,4 @@
-?# Gym Management Website
+# Gym Management Website
  ## About
   Final Project for the class of Advanced Computer Programming in UFPA where it's been developed a simple Gym management web application.
  ## Software Development:
